@@ -30,11 +30,14 @@ ecom-gpt2-reviews/
 │── outputs/ # Generated reviews
 │── prompts.txt # (optional) Custom prompts
 
+ 
 
 ## ⚙️ Installation  
- 
-git clone https://github.com/<Ritikakeshtwal>/ecom-gpt2-reviews
+
+Clone this repository:  
+git clone https://github.com/<Ritikakeshtwal>/ecom-gpt2-reviews.git
 cd ecom-gpt2-reviews
+
 
 python -m venv venv
 venv\Scripts\activate
